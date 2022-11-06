@@ -27,6 +27,11 @@ span{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.ol1{
+    margin-bottom: 30px;
+    color:  #2675d1;
+}
+
 li{
     margin-top: 10px;
 }
